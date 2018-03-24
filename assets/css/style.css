@@ -1,0 +1,33 @@
+body{
+    background: rgb(4, 4, 97)
+}
+
+.jumbotron{
+    text-align: center;
+    height: 320px;
+    width: 1100px;
+    align-self: center;
+
+
+}
+
+.panel-body{
+    text-align: center;
+}
+
+.CBC{
+  position: relative;
+  left: 300px;
+  width: 50%;
+  height: 250px;
+  margin: 10px;
+  border: 7px;
+  border-color: rgb(255, 255, 255)
+}
+
+#tree{
+    position: relative;
+    width: 150px;
+    right: 350px;
+    bottom: 130px;
+}
